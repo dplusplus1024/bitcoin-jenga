@@ -1,6 +1,6 @@
 # Build Your Own Privacy Jenga Set
 
-Here’s what you need to assemble your Privacy Jenga set:
+Here’s what you need to assemble a **Privacy Jenga** set:
 
 ## 1) Blocks
 You’ll need a tumbling tower to play.
