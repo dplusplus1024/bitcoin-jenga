@@ -1,8 +1,8 @@
-# Privacy Jenga Communities
+# Privacy Jenga Around the World
 
-If you've played Privacy Jenga in your community, add your community's name here, along with a link to an image, tweet, or any other relevant media! Simply edit this page and add your entry below.
+If you've played Privacy Jenga in your community or at an event, add your details here, along with a link to an image, tweet, or any relevant media! Simply edit this page and add your entry below.
 
-## Communities
+## Places Where It's Played
 
 - **TABConf**  
 
@@ -16,17 +16,17 @@ If you've played Privacy Jenga in your community, add your community's name here
 
 ---
 
-### How to Add Your Community
+### How to Add Your Community or Event
 
 1. Fork this repository.
-2. Add your community name, and a link to an image, tweet, or any other relevant media below the existing entries.
-3. Submit a pull request to have your community added!
+2. Add your community, event, or group and a link to an image, tweet, or other media below the existing entries.
+3. Submit a pull request to have it added!
 
 ---
 
-**Template for Adding Your Community** (Copy and paste the template below to add your community):
+**Template for Adding Your Community or Event** (Copy and paste the template below):
 
 ```markdown
-- **[Community Name]**  
-  ![Community Name](https://example.com/link-to-image.jpg)  
-  [Twitter Post](https://twitter.com/example_tweet)
+- **[Community, Event, or Group Name]**  
+  ![Image or Media](https://example.com/link-to-image.jpg)  
+  [Tweet or Post](https://twitter.com/example_tweet)
