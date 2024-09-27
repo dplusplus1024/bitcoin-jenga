@@ -12,7 +12,7 @@ You’ll need a tumbling tower to play. Here’s how to get started:
 To customize your game pieces, print stickers using our template!
 
 - **Download the file** – Grab the template we’ve provided.
-- **Print onto sticker sheets** – Use the [sticker sheet we link](#), or choose your own method to print and apply.
+- **Print onto sticker sheets** – Use [this sticker sheet](https://www.amazon.com/gp/product/B09BBJLCP4/ref=ppx_yo_dt_b_search_asin_title), or choose your own method to print and apply.
 
 ## 3) Dice -or- Cards
 You’ll need a way to determine the severity (mild, moderate, severe) for each move. Choose one method below — no need to use both!
