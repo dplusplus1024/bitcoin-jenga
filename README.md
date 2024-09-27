@@ -18,7 +18,7 @@ To customize your game pieces, print some stickers using our template.
 You’ll need a way to determine the severity (mild, moderate, severe) for each move. Choose one method below — no need to use both!
 
 - **Option 1: Cards** – Print and cut our severity cards (mild, moderate, severe). You can optionally use these business card sheets for your convenience.
-- **Option 2: Dice** – Order custom dice online using our assets, or 3D print the dice using a design of your own. Want to contribute? You could create a 3D printing file for the community!
+- **Option 2: Dice** – Order custom dice online using our assets, or 3D print the dice with a design of your own. Want to contribute? You could create a 3D printing file for the community!
 
 ---
 
