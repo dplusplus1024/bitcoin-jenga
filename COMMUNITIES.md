@@ -5,24 +5,14 @@ If you've played Privacy Jenga in your community, add your community's name here
 ## Communities
 
 - **TABConf**  
-  ![TABConf](https://example.com/link-to-image.jpg)  
-  [Twitter Post](https://twitter.com/example_tweet)
 
 - **Bitshala India**  
-  ![Bitshala India](https://example.com/link-to-image.jpg)  
-  [Twitter Post](https://twitter.com/example_tweet)
 
 - **LABitConf**  
-  ![LABitConf](https://example.com/link-to-image.jpg)  
-  [Twitter Post](https://twitter.com/example_tweet)
 
 - **AfroBitcoinConf**  
-  ![AfroBitcoinConf](https://example.com/link-to-image.jpg)  
-  [Twitter Post](https://twitter.com/example_tweet)
 
 - **SatsConf**  
-  ![SatsConf](https://example.com/link-to-image.jpg)  
-  [Twitter Post](https://twitter.com/example_tweet)
 
 ---
 
