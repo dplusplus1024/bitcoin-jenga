@@ -1,9 +1,9 @@
 # Build Your Own Privacy Jenga Set
 
-To get started, you'll need three main things to assemble your Privacy Jenga set:
+Here’s what you need to assemble your Privacy Jenga set:
 
 ## 1) Blocks
-You’ll need a tumbling tower to play. Here’s how to get started:
+You’ll need a tumbling tower to play.
 
 - **Option 1 (recommended)** – Order a tumbling tower from [here](https://www.amazon.com/gp/product/B0CQR7M3JH/ref=ppx_yo_dt_b_search_asin_image).
 - **Option 2** – Can’t get that tower? Create your own by color-coding the blocks with three severity levels.
