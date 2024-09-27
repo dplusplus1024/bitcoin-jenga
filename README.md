@@ -9,7 +9,7 @@ You’ll need a tumbling tower to play.
 - **Option 2** – Can’t get that tower? Create your own by color-coding the blocks with three severity levels.
 
 ## 2) Stickers
-To customize your game pieces, print some stickers using our template.
+Prepare your blocks by printing and applying some stickers using our template.
 
 - **Download the file** – Grab the template we’ve provided.
 - **Print onto sticker sheets** – Use [this sticker sheet](https://www.amazon.com/gp/product/B09BBJLCP4/ref=ppx_yo_dt_b_search_asin_title), or choose your own method to print and apply.
