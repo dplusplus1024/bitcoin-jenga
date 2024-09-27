@@ -14,7 +14,7 @@ To customize your game pieces, print some stickers using our template.
 - **Download the file** – Grab the template we’ve provided.
 - **Print onto sticker sheets** – Use [this sticker sheet](https://www.amazon.com/gp/product/B09BBJLCP4/ref=ppx_yo_dt_b_search_asin_title), or choose your own method to print and apply.
 
-## 3) Dice -or- Cards
+## 3) Dice or Cards
 You’ll need a way to determine the severity (mild, moderate, severe) for each move. Choose one method below — no need to use both!
 
 - **Option 1: Cards** – Print and cut our severity cards (mild, moderate, severe). You can optionally use these business card sheets for your convenience.
