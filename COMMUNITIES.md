@@ -27,6 +27,7 @@ If you've played Privacy Jenga in your community, add your details here, along w
 **Template for Adding Your Community or Event** (Copy and paste the template below):
 
 ```markdown
-- **[Community, Event, or Group Name]**  
+- **[Community, Event, or Group Name]**
+  Location: [City, State/Region, Country]
   ![Image or Media](https://example.com/link-to-image.jpg)  
   [Tweet or Post](https://twitter.com/example_tweet)
