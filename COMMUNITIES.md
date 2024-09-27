@@ -28,6 +28,6 @@ If you've played Privacy Jenga in your community, add your details here, along w
 
 ```markdown
 - **[Community, Event, or Group Name]**
-  Location: [City, State/Region, Country]
+  **Location:** City, State/Region, Country
   ![Image or Media](https://example.com/link-to-image.jpg)  
   [Tweet or Post](https://twitter.com/example_tweet)
