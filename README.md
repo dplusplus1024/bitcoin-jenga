@@ -8,7 +8,7 @@ You’ll need a tumbling tower to play.
 - **Option 1 (recommended)** – Order a tumbling tower from [here](https://www.amazon.com/gp/product/B0CQR7M3JH/ref=ppx_yo_dt_b_search_asin_image).
 - **Option 2** – Can’t get that tower? Create your own by color-coding the blocks for three severity levels.
 
-## 2) Stickers
+## 2) Labels
 Prepare your blocks by printing and applying some stickers using our template.
 
 - **Download the file** – Grab the template we’ve provided.
