@@ -17,7 +17,7 @@ Prepare your blocks by printing and applying some stickers using our template.
 ## 3) Dice or Cards
 You’ll need a way to determine the severity (mild, moderate, severe) for each move. Choose one method below — no need to use both!
 
-- **Option 1: Cards** – Print and cut our [severity cards](https://github.com/dplusplus1024/bitcoin-jenga/blob/main/severity-cards.doc) (mild, moderate, severe). You can optionally purchase [these business card sheets](https://www.amazon.com/Avery-Printable-Business-Printers-Heavyweight/dp/B002NGML5G) for your convenience.
+- **Option 1: Cards** – Print and cut our [severity cards](https://github.com/dplusplus1024/bitcoin-jenga/blob/main/assets/severity-cards.doc) (mild, moderate, severe). You can optionally purchase [these business card sheets](https://www.amazon.com/Avery-Printable-Business-Printers-Heavyweight/dp/B002NGML5G) for your convenience.
 - **Option 2: Dice** – Order custom dice online using our assets, or 3D print dice with a design of your own. Want to contribute? You could create a 3D printing file for the community!
 
 ---
