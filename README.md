@@ -22,4 +22,4 @@ You’ll need a way to determine the severity (mild, moderate, severe) for each 
 
 ---
 
-If you're making your own set and have any questions, contact Amiti or D++.
+If you're making your own set and have any questions, please [submit an issue on GitHub](https://github.com/dplusplus1024/bitcoin-jenga/issues).
