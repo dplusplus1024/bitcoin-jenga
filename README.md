@@ -13,7 +13,8 @@ Prepare your blocks by printing and applying some stickers using our template.
 
 - **Download the file** – Grab the [template](https://github.com/dplusplus1024/bitcoin-jenga/tree/main/assets/labels) we’ve provided.
 - **Print onto sticker sheets** – Use [this sticker sheet](https://www.amazon.com/gp/product/B09BBJLCP4/ref=ppx_yo_dt_b_search_asin_title), or choose your own printing method.
-- **Apply labels** - Place the labels onto the blocks, matching the severity levels with the appropriate block colors: 
+- **Apply labels** - Place the labels onto the blocks, matching the severity levels with the appropriate block colors:
+
     - **Mild** (first column) – Apply to **cream-colored** blocks.
     - **Moderate** (second column) – Apply to **orange-red** blocks.
     - **Severe** (third column) – Apply to **crimson-red** blocks.
