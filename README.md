@@ -11,7 +11,7 @@ You’ll need a tumbling tower to play.
 ## 2) Labels
 Prepare your blocks by printing and applying some stickers using our template.
 
-- **Download the file** – Grab the template we’ve provided.
+- **Download the file** – Grab the [template](https://github.com/dplusplus1024/bitcoin-jenga/tree/main/assets/labels) we’ve provided.
 - **Print onto sticker sheets** – Use [this sticker sheet](https://www.amazon.com/gp/product/B09BBJLCP4/ref=ppx_yo_dt_b_search_asin_title), or choose your own method to print and apply.
 
 ## 3) Dice or Cards
