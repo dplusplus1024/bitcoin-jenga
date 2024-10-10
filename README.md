@@ -1,8 +1,8 @@
-![Game](https://i.imgur.com/CsuGEJS.jpeg)
-
 # Build Your Own Privacy Jenga Set
 
 Here’s what you need to assemble a **Privacy Jenga** set:
+
+![Game](https://i.imgur.com/CsuGEJS.jpeg)
 
 ## 1) Blocks
 You’ll need a tumbling tower to play.
