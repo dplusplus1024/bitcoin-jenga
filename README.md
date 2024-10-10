@@ -1,6 +1,6 @@
-# Build Your Own Privacy Jenga Set
-
 ![Game](https://i.imgur.com/CsuGEJS.jpeg)
+
+# Build Your Own Privacy Jenga Set
 
 Here’s what you need to assemble a **Privacy Jenga** set:
 
