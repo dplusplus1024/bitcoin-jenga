@@ -26,12 +26,8 @@ Si has jugado Privacy Jenga en tu comunidad, ¡agrega tus detalles aquí, junto 
 
 **Plantilla para Agregar Tu Comunidad o Evento** (Copia y pega la plantilla a continuación):
 
-
+```markdown
 - **[Nombre de la Comunidad, Evento o Grupo]**
   **Ubicación:** Ciudad, Estado/Región, País
   ![Imagen o Medio](https://example.com/link-to-image.jpg)  
   [Tuit o Publicación](https://twitter.com/example_tweet)
-```
-```
-
-Let me know if you need anything else!
